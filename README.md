@@ -4,9 +4,10 @@
 
 |발표일|발표자|발표 자료|
 |----|----|----|
+|2021.11.30|차민철|[Cache strategies](https://fortunate-traffic-0aa.notion.site/Cache-e528ed3cebdf46d3b7d0009d17c4b766)|
 |2021.11.16|김민경|[Redis Sentinel](https://maisy.notion.site/2021-11-16-redis-sentienl-435921853f8e46be893a0a14d9128540)|
 |2021.11.02|전승훈|[로그]()|
-|2021.10.12|차민철|[Real Mysql 8.0 - 인덱스 + @](https://www.notion.so/Mysql-8-0-e548169331a44352bb169ae33d328d45)|
+|2021.10.12|차민철|[Real Mysql 8.0 - 인덱스 + @](https://fortunate-traffic-0aa.notion.site/Mysql-8-0-e548169331a44352bb169ae33d328d45)|
 |2021.09.28|김민경|[가용성을 높일 수 있는 아키텍처 설계](https://maisy.notion.site/dbe67629c3aa44d096cb18e0c8753834)|
 |2021.09.10|전승훈|[데이터와 AB테스트]()|
 |2021.08.24|차민철|[HTTP2](https://fortunate-traffic-0aa.notion.site/HTTP-2-8b1414315e864b86a1c901dd57b2d8ae)|
